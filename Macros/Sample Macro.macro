@@ -1,0 +1,12 @@
+Macro T
+KeyDown WinLeft
+Key R
+KeyUp WinLeft
+Sleep 300
+Key W
+Key I
+Key N
+Key V
+Key E
+Key R
+Key Enter
